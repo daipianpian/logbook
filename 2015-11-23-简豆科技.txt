@@ -8,6 +8,11 @@ canvas + jQuery + RequireJs(模块载入框架)
 JavaScript
 canvas + jQuery + CreateJS
 JavaScript + TweenLite(动画引擎)
+jQuery + imgpreload(图片预加载)
+canvas + lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发)
+jQuery + swiper
+
+
 
 2015年11月23日
 1.图片优化，从PS里做的图片或者切得图片保存的时候保存为“存储为Web所用格式”(快捷键为Ctrl+Shift+Alt+S)
