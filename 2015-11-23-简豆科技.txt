@@ -1,5 +1,14 @@
 2015年11月23日-
 
+H5页面中用到的技术：
+canvas + Egret(白鹭引擎)
+jQuery + TweenMax(动画框架) + PxLoader(预加载库)
+jQuery
+canvas + jQuery + RequireJs(模块载入框架)
+JavaScript
+canvas + jQuery + CreateJS
+JavaScript + TweenLite(动画引擎)
+
 2015年11月23日
 1.图片优化，从PS里做的图片或者切得图片保存的时候保存为“存储为Web所用格式”(快捷键为Ctrl+Shift+Alt+S)
 2.HTML5中的canvas画图功能很强大

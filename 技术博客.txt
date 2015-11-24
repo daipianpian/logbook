@@ -1,2 +1,12 @@
 司徒正美 - 博客园
 http://www.cnblogs.com/rubylouvre/
+
+极寒之冰 - github常用命令
+http://www.cnblogs.com/winterIce/archive/2012/07/22/2603488.html
+
+
+无赖皮肤 - GitHub常用命令 2012-08-30 22:38:45
+http://blog.chinaunix.net/uid-26185912-id-3332628.html
+
+Git教程
+http://www.yiibai.com/git/
