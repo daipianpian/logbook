@@ -25,4 +25,11 @@ jQuery + swiper
 1.见到了很多H5移动页面开发用到的技术，例如：canvas ， Egret ，jQuery ，TweenMax(动画框架) ， PxLoader(预加载库) ， RequireJs(模块载入框架) ，CreateJS ，TweenLite(动画引擎) ，imgpreload(图片预加载)，lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发) ，swiper
 
 2015年11月25日
+写案例方法总结：
+1.写标题，案例名
+2.做图片（封面，拼图）
+3.用手机扫二维码打开页面
+4.将页面发到电脑上，用Chrom浏览器查到所需信息，在word里写链接，技术，文件名，当然依次填到word里
+5.摘要描述，然后，亮点
+6.写标签
 
