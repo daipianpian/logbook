@@ -20,3 +20,9 @@ jQuery + swiper
 3.CSS3中做动画用animation等
 4.用Chrome浏览器中的“开发者工具”来查移动端页面最好
 5.移动端的常用js空间“Zepto.js”
+
+2015年11月24日
+1.见到了很多H5移动页面开发用到的技术，例如：canvas ， Egret ，jQuery ，TweenMax(动画框架) ， PxLoader(预加载库) ， RequireJs(模块载入框架) ，CreateJS ，TweenLite(动画引擎) ，imgpreload(图片预加载)，lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发) ，swiper
+
+2015年11月25日
+
