@@ -11,6 +11,7 @@ JavaScript + TweenLite(动画引擎)
 jQuery + imgpreload(图片预加载)
 canvas + lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发)
 jQuery + swiper
+Egret(白鹭引擎) + jQuery + Zepto
 
 
 
@@ -19,17 +20,25 @@ jQuery + swiper
 2.HTML5中的canvas画图功能很强大
 3.CSS3中做动画用animation等
 4.用Chrome浏览器中的“开发者工具”来查移动端页面最好
-5.移动端的常用js空间“Zepto.js”
+5.移动端的常用js控件“Zepto.js”
 
 2015年11月24日
 1.见到了很多H5移动页面开发用到的技术，例如：canvas ， Egret ，jQuery ，TweenMax(动画框架) ， PxLoader(预加载库) ， RequireJs(模块载入框架) ，CreateJS ，TweenLite(动画引擎) ，imgpreload(图片预加载)，lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发) ，swiper
 
 2015年11月25日
-写案例方法总结：
-1.写标题，案例名
-2.做图片（封面，拼图）
-3.用手机扫二维码打开页面
-4.将页面发到电脑上，用Chrome浏览器查到所需信息，在word里写链接，技术，文件名，当然依次填到word里
-5.摘要描述，然后，亮点
-6.写标签
+1.引用JS库或者其他文件时要标明出处，因为引用的文件有权限问题，有的可以用作个人有的可以用作商业，有一定的规定
+2写案例方法总结：
+(1)用手机扫二维码打开页面
+(2)写标题，案例名
+(3)做图片（封面，拼图）
+(4)将页面发到电脑上，用Chrome浏览器查到所需信息，在word里写链接，技术，文件名，当然依次填到word里
+(5)摘要描述，然后，亮点
+(6)写标签
+
+
+2015年11月26日
+1.jQuery和Zepto放在一块极有可能会冲突，因为两者都会用到$符号，当js文件中运用了$符时，可能不知道到底是调用了jQuery还是调用了jQuery
+2.摘要描述主要从主题和风格上说，特别是主题
+3.手机端基本上都是采用上下滑动进行屏幕切换，因此这个效果不能算作交互特点，可以从HTML5中的canvas画图和重力感应方面为切入点
+4.设计上，主要从风格和色调上来说
 
