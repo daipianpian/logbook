@@ -12,8 +12,10 @@ jQuery + imgpreload(图片预加载)
 canvas + lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发)
 jQuery + swiper
 Egret(白鹭引擎) + jQuery + Zepto
+jQuery  +  TweenMax(动画框架)  +  PreloadJS (预加载)
 
 
+第48周
 
 2015年11月23日
 1.图片优化，从PS里做的图片或者切得图片保存的时候保存为“存储为Web所用格式”(快捷键为Ctrl+Shift+Alt+S)
@@ -41,4 +43,11 @@ Egret(白鹭引擎) + jQuery + Zepto
 2.摘要描述主要从主题和风格上说，特别是主题
 3.手机端基本上都是采用上下滑动进行屏幕切换，因此这个效果不能算作交互特点，可以从HTML5中的canvas画图和重力感应方面为切入点
 4.设计上，主要从风格和色调上来说
+
+
+
+第49周
+
+2015年11月30日
+1.网页中的图片要加上alt属性，便于搜索引擎搜索到
 
