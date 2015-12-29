@@ -12,8 +12,10 @@ jQuery + imgpreload(图片预加载)
 canvas + lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发)
 jQuery + swiper
 Egret(白鹭引擎) + jQuery + Zepto
+jQuery  +  TweenMax(动画框架)  +  PreloadJS (预加载)
 
 
+第48周
 
 2015年11月23日
 1.图片优化，从PS里做的图片或者切得图片保存的时候保存为“存储为Web所用格式”(快捷键为Ctrl+Shift+Alt+S)
@@ -42,3 +44,99 @@ Egret(白鹭引擎) + jQuery + Zepto
 3.手机端基本上都是采用上下滑动进行屏幕切换，因此这个效果不能算作交互特点，可以从HTML5中的canvas画图和重力感应方面为切入点
 4.设计上，主要从风格和色调上来说
 
+
+
+第49周
+
+2015年11月30日
+1.网页中的图片要加上alt属性，便于搜索引擎搜索到
+
+2015年12月1日
+推广H5案例的技术分享策划
+1.以一个小故事的形式展现
+2.(1)boss要做H5，屌丝技术员抓耳挠腮，无可奈何，上天求帮助被撞掉海里，
+(2)被凶猛鲨鱼追赶，拼命潜水无意中来到H5案例分享群，正好看到大神正在做H5技术讲解
+(3)豁然开朗，孤岛面壁，潜心修行,成为大神，最终乘风破浪，完美解决问题，得boss嘉奖女盆友一枚，结束单身狗生活，礼花是。。。3.卡通漫画夸张
+
+(具体情节
+第一屏：boss交代
+)
+
+4.交互采用滑动，翻屏采用上下滑动，每屏的情节切换采用横向滑动
+
+
+
+第51周
+
+2015年12月16日
+妙味课堂2013年-2014年 高清视频集合
+
+微信接口开发文档：  http://mp.weixin.qq.com/wiki/7/1c97470084b73f8e224fe6d9bab1625b.html
+
+
+http://bbs.miaov.com/forum.php?mod=viewthread&tid=13378
+
+
+http://www.miaov.com/2013/download/sequence.html
+
+
+http://d.119g.com/f/C2912EC31F719863.html
+
+
+妙味2015全站VIP视频
+
+2015年12月17日
+如何提高网页打开速度———从图片入手
+http://mp.weixin.qq.com/s?__biz=MzA4NzMwNzgzNw==&mid=204004694&idx=1&sn=8854dc1ca888d71d183f6fef70a3c683&scene=1&srcid=1217t7S0t8Lvm1y7wmRHDzqz#wechat_redirect
+
+H5手机端页面制作注意事项详解
+http://mp.weixin.qq.com/s?__biz=MzA4NzMwNzgzNw==&mid=202991931&idx=1&sn=393f31aab00b4d31901fe437d09c314f&scene=1&srcid=121782C0KBsOWSGVnASH6XfO#wechat_redirect
+
+
+第53周：
+2015年12月28日
+1、写案例 （10个）
+案例1：你相信圣诞老人吗
+出品：腾讯
+
+案例3：Leo Burnett
+出品：Leo Burnett
+
+案例4：Continental 轮胎DNA圣诞树
+出品：Continental
+
+案例5：圣诞节你有一个未接来电，现在接听！
+出品：午后奶茶
+
+案例7：圣诞寻踪夜
+出品：梅赛德斯-奔驰
+
+案例8：圣诞大礼盒拆拆拆
+出品：苏宁易购
+
+案例9：180Christmas
+出品：180China
+
+案例10：圣诞老头的秘密
+出品：灵迪互动
+
+案例12：No More Xmas,Let's Merry Chloemas!遇见最美Chloemas tree!
+出品：Chloé
+
+案例13：圣诞袜大对决！看谁能满足圣诞老人这个恋袜癖?
+出品：盛世长城
+
+
+
+2015年12月29日
+案例15：贱面抱抱
+出品：芥末互动
+
+案例16：惊奇圣诞夜
+出品：苏泊尔
+
+案例17：圣诞大叔奇遇记
+出品：腾讯地图
+
+案例20：圣诞老人过安检被拦，快来抢礼物！
+出品：360智能家居
