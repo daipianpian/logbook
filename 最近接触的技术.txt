@@ -1,0 +1,23 @@
+第53周
+
+2015年12月29日
+
+1、CreateJS
+CreateJS为CreateJS库，可以说是一款为HTML5游戏开发的引擎。
+
+CreateJs中文网
+http://www.createjs.cc/
+
+CreateJS APIs
+http://createjs.com/docs/easeljs/modules/CreateJS.html
+
+
+2、ibeacon
+Ibeacon一项低耗能蓝牙技术技术，工作原理类似之前的蓝牙技术，由iBeacon发射信号，IOS设备定位接受，反馈信号。
+
+相关网站：
+智后科技
+http://www.brtbeacon.com/main/index.shtml
+
+iBeaconworld.cn开放式iBeacon资源平台
+http://www.ibeaconworld.cn/
