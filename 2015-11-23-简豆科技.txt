@@ -63,3 +63,65 @@ jQuery  +  TweenMax(动画框架)  +  PreloadJS (预加载)
 )
 
 4.交互采用滑动，翻屏采用上下滑动，每屏的情节切换采用横向滑动
+
+
+
+第51周
+
+2015年12月16日
+妙味课堂2013年-2014年 高清视频集合
+
+微信接口开发文档：  http://mp.weixin.qq.com/wiki/7/1c97470084b73f8e224fe6d9bab1625b.html
+
+
+http://bbs.miaov.com/forum.php?mod=viewthread&tid=13378
+
+
+http://www.miaov.com/2013/download/sequence.html
+
+
+http://d.119g.com/f/C2912EC31F719863.html
+
+
+妙味2015全站VIP视频
+
+2015年12月17日
+如何提高网页打开速度———从图片入手
+http://mp.weixin.qq.com/s?__biz=MzA4NzMwNzgzNw==&mid=204004694&idx=1&sn=8854dc1ca888d71d183f6fef70a3c683&scene=1&srcid=1217t7S0t8Lvm1y7wmRHDzqz#wechat_redirect
+
+H5手机端页面制作注意事项详解
+http://mp.weixin.qq.com/s?__biz=MzA4NzMwNzgzNw==&mid=202991931&idx=1&sn=393f31aab00b4d31901fe437d09c314f&scene=1&srcid=121782C0KBsOWSGVnASH6XfO#wechat_redirect
+
+
+第53周：
+2015年12月29日
+1、写案例 （10个）
+案例1：你相信圣诞老人吗
+出品：腾讯
+
+案例3：Leo Burnett
+出品：Leo Burnett
+
+案例4：Continental 轮胎DNA圣诞树
+出品：Continental
+
+案例5：圣诞节你有一个未接来电，现在接听！
+出品：午后奶茶
+
+案例7：圣诞寻踪夜
+出品：梅赛德斯-奔驰
+
+案例8：圣诞大礼盒拆拆拆
+出品：苏宁易购
+
+案例9：180Christmas
+出品：180China
+
+案例10：圣诞老头的秘密
+出品：灵迪互动
+
+案例12：No More Xmas,Let's Merry Chloemas!遇见最美Chloemas tree!
+出品：Chloé
+
+案例13：圣诞袜大对决！看谁能满足圣诞老人这个恋袜癖?
+出品：盛世长城
