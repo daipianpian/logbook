@@ -153,3 +153,9 @@ Clarks H5宣传案例 — TRIG3NIC三瓣鞋 特别如3?特别如你
 
 3、iBeacon的简单信息查询
 Ibeacon一项低耗能蓝牙技术技术，工作原理类似之前的蓝牙技术，由iBeacon发射信号，IOS设备定位接受，反馈信号。根据这项简单的定位技术可以做出许多的相应技术应用。
+
+2015年12月30日
+1、整理别克合集（23个别克案例，出自h5-share.com和数英网DIGITALING）
+2、写别克案例并上传到h5-share上（4个）
+3、CreateJs与zepto、jquery、javascript都不冲突，CreateJs 中的TweenJS动画库主要用来做3D动画
+
