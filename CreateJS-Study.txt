@@ -17,3 +17,7 @@ http://blog.csdn.net/oyuemijindu/article/details/43866821
 
 HTML5前端工程师-学习路径
 http://www.0574178.com/zt/html5.html
+
+
+HTML5 Canvas绘图与动画学习59例
+http://www.108js.com/example.html
