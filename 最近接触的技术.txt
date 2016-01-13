@@ -43,4 +43,9 @@ Reset.css
 Normalize.css
 Neat.css
 
-6¡¢Angularjs
+6¡¢AngularJS
+AngularJSÖĞÎÄÍø
+http://www.apjs.net/
+
+AngularJS API 
+http://docs.angularjs.cn/api
