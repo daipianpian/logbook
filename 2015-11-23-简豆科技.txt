@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2015年11月23日-
 
 H5页面中用到的技术：
@@ -140,3 +141,169 @@ http://mp.weixin.qq.com/s?__biz=MzA4NzMwNzgzNw==&mid=202991931&idx=1&sn=393f31aa
 
 案例20：圣诞老人过安检被拦，快来抢礼物！
 出品：360智能家居
+=======
+2015年11月23日-
+
+H5页面中用到的技术：
+canvas + Egret(白鹭引擎)
+jQuery + TweenMax(动画框架) + PxLoader(预加载库)
+jQuery
+canvas + jQuery + RequireJs(模块载入框架)
+JavaScript
+canvas + jQuery + CreateJS
+JavaScript + TweenLite(动画引擎)
+jQuery + imgpreload(图片预加载)
+canvas + lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发)
+jQuery + swiper
+Egret(白鹭引擎) + jQuery + Zepto
+jQuery  +  TweenMax(动画框架)  +  PreloadJS (预加载)
+
+
+第48周
+
+2015年11月23日
+1.图片优化，从PS里做的图片或者切得图片保存的时候保存为“存储为Web所用格式”(快捷键为Ctrl+Shift+Alt+S)
+2.HTML5中的canvas画图功能很强大
+3.CSS3中做动画用animation等
+4.用Chrome浏览器中的“开发者工具”来查移动端页面最好
+5.移动端的常用js控件“Zepto.js”
+
+2015年11月24日
+1.见到了很多H5移动页面开发用到的技术，例如：canvas ， Egret ，jQuery ，TweenMax(动画框架) ， PxLoader(预加载库) ， RequireJs(模块载入框架) ，CreateJS ，TweenLite(动画引擎) ，imgpreload(图片预加载)，lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发) ，swiper
+
+2015年11月25日
+1.引用JS库或者其他文件时要标明出处，因为引用的文件有权限问题，有的可以用作个人有的可以用作商业，有一定的规定
+2写案例方法总结：
+(1)用手机扫二维码打开页面
+(2)写标题，案例名
+(3)做图片（封面，拼图）
+(4)将页面发到电脑上，用Chrome浏览器查到所需信息，在word里写链接，技术，文件名，当然依次填到word里
+(5)摘要描述，然后，亮点
+(6)写标签
+
+
+2015年11月26日
+1.jQuery和Zepto放在一块极有可能会冲突，因为两者都会用到$符号，当js文件中运用了$符时，可能不知道到底是调用了jQuery还是调用了jQuery
+2.摘要描述主要从主题和风格上说，特别是主题
+3.手机端基本上都是采用上下滑动进行屏幕切换，因此这个效果不能算作交互特点，可以从HTML5中的canvas画图和重力感应方面为切入点
+4.设计上，主要从风格和色调上来说
+
+
+
+第49周
+
+2015年11月30日
+1.网页中的图片要加上alt属性，便于搜索引擎搜索到
+
+2015年12月1日
+推广H5案例的技术分享策划
+1.以一个小故事的形式展现
+2.(1)boss要做H5，屌丝技术员抓耳挠腮，无可奈何，上天求帮助被撞掉海里，
+(2)被凶猛鲨鱼追赶，拼命潜水无意中来到H5案例分享群，正好看到大神正在做H5技术讲解
+(3)豁然开朗，孤岛面壁，潜心修行,成为大神，最终乘风破浪，完美解决问题，得boss嘉奖女盆友一枚，结束单身狗生活，礼花是。。。3.卡通漫画夸张
+
+(具体情节
+第一屏：boss交代
+)
+
+4.交互采用滑动，翻屏采用上下滑动，每屏的情节切换采用横向滑动
+
+
+
+第51周
+
+2015年12月16日
+妙味课堂2013年-2014年 高清视频集合
+
+微信接口开发文档：  http://mp.weixin.qq.com/wiki/7/1c97470084b73f8e224fe6d9bab1625b.html
+
+
+http://bbs.miaov.com/forum.php?mod=viewthread&tid=13378
+
+
+http://www.miaov.com/2013/download/sequence.html
+
+
+http://d.119g.com/f/C2912EC31F719863.html
+
+
+妙味2015全站VIP视频
+
+2015年12月17日
+如何提高网页打开速度———从图片入手
+http://mp.weixin.qq.com/s?__biz=MzA4NzMwNzgzNw==&mid=204004694&idx=1&sn=8854dc1ca888d71d183f6fef70a3c683&scene=1&srcid=1217t7S0t8Lvm1y7wmRHDzqz#wechat_redirect
+
+H5手机端页面制作注意事项详解
+http://mp.weixin.qq.com/s?__biz=MzA4NzMwNzgzNw==&mid=202991931&idx=1&sn=393f31aab00b4d31901fe437d09c314f&scene=1&srcid=121782C0KBsOWSGVnASH6XfO#wechat_redirect
+
+
+第53周：
+2015年12月28日
+1、写案例 （10个）
+案例1：你相信圣诞老人吗
+出品：腾讯
+
+案例3：Leo Burnett
+出品：Leo Burnett
+
+案例4：Continental 轮胎DNA圣诞树
+出品：Continental
+
+案例5：圣诞节你有一个未接来电，现在接听！
+出品：午后奶茶
+
+案例7：圣诞寻踪夜
+出品：梅赛德斯-奔驰
+
+案例8：圣诞大礼盒拆拆拆
+出品：苏宁易购
+
+案例9：180Christmas
+出品：180China
+
+案例10：圣诞老头的秘密
+出品：灵迪互动
+
+案例12：No More Xmas,Let's Merry Chloemas!遇见最美Chloemas tree!
+出品：Chloé
+
+案例13：圣诞袜大对决！看谁能满足圣诞老人这个恋袜癖?
+出品：盛世长城
+
+
+2015年12月29日
+1、写案例 （8个）
+案例15：贱面抱抱
+出品：芥末互动
+
+案例16：惊奇圣诞夜
+出品：苏泊尔
+
+案例17：圣诞大叔奇遇记
+出品：腾讯地图
+
+案例20：圣诞老人过安检被拦，快来抢礼物！
+出品：360智能家居
+
+微吃H5宣传案例 — 2016年学习计划
+
+Clarks H5宣传案例 — TRIG3NIC三瓣鞋 特别如3?特别如你
+
+天猫H5双十一宣传案例 — 全世界只有5%的人知道这些事儿
+
+戴尔H5宣传案例 — 飞匣驾到
+
+2、github分支方面的操作
+
+3、iBeacon的简单信息查询
+Ibeacon一项低耗能蓝牙技术技术，工作原理类似之前的蓝牙技术，由iBeacon发射信号，IOS设备定位接受，反馈信号。根据这项简单的定位技术可以做出许多的相应技术应用。
+
+2015年12月30日
+1、整理别克合集（23个别克案例，出自h5-share.com和数英网DIGITALING）
+2、写别克案例并上传到h5-share上（4个）
+3、CreateJs与zepto、jquery、javascrip（）t都不冲突，CreateJs 中的TweenJS动画库主要用来做3D动画
+
+2016/1/13
+1、四格漫画
+1、四格漫画
+>>>>>>> dailyBranch
