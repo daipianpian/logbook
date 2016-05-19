@@ -10,10 +10,20 @@ JavaScript
 canvas + jQuery + CreateJS
 JavaScript + TweenLite(动画引擎)
 jQuery + imgpreload(图片预加载)
-canvas + lufylegend(lufylegend是一个HTML5开源引擎，利用它可以快速方便的进行HTML5的开发)
-jQuery + swiper
+canvas + lufylegend(HTML5开源引擎)
+jQuery + Swiper（JS滑动插件）
 Egret(白鹭引擎) + jQuery + Zepto
 jQuery  +  TweenMax(动画框架)  +  PreloadJS (预加载)
+jQuery + canvas + CreateJS
+jQuery + PreloadJS (预加载)
+jQuery + Zepto + PxLoader(预加载库)
+canvas + jQuery + Egret(白鹭引擎)
+Canvas + jQuery + CreateJS + Swiper（JS滑动插件）
+Zepto + TweenMax(动画框架) + CreateJS
+jQuery + CreateJS +TweenMax(动画框架)
+Zepto + iSlider（滑动组件）
+jQuery + iScroll（区域滚动脚本库）
+jQuery + Cocos2d（游戏引擎）
 
 
 第48周
@@ -305,5 +315,9 @@ Ibeacon一项低耗能蓝牙技术技术，工作原理类似之前的蓝牙技术，由iBeacon发射信号，IO
 
 2016/1/13
 1、四格漫画
-1、四格漫画
+
+
+2016/3/23
+1、circlr.min.js   3D翻转插件 （+jquery.min.js）
+
 >>>>>>> dailyBranch
