@@ -7,7 +7,7 @@ jQuery + TweenMax(动画框架) + PxLoader(预加载库)
 jQuery
 canvas + jQuery + RequireJs(模块载入框架)
 JavaScript
-canvas + jQuery + CreateJS
+Canvas + jQuery + CreateJS
 JavaScript + TweenLite(动画引擎)
 jQuery + imgpreload(图片预加载)
 canvas + lufylegend(HTML5开源引擎)
